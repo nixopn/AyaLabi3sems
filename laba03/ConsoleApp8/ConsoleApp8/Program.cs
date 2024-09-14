@@ -161,6 +161,45 @@ class CurrencyUSD : Currency
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class Program
 {
     public static void Main()
@@ -170,6 +209,10 @@ class Program
         Console.WriteLine(carcar28.Equals(carcar20));
 
         CurrencyRUB crurub = new CurrencyRUB(202);
+        CurrencyUSD cruusd = crurub;
         Console.WriteLine(((CurrencyUSD)crurub).Value);
+        Console.WriteLine(cruusd.Value);
+
+
     }
 }
