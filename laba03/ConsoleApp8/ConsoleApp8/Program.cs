@@ -52,7 +52,7 @@ struct Vector
     }
 }
 
-class Car
+class Car : IEquatable<Car>
 {
     public string Name { get; set; }
     public string Engnie {  get; set; }
@@ -76,10 +76,7 @@ class Car
         return this.Name == other.Name && this.Engnie == other.Engnie && this.Speed == other.Speed;
     }
 
-    public interface IEquatable<T>
-    {
-        bool Equals(T other);
-    }
+
 
     public override int GetHashCode()
     {
