@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 class MyMatrix
 {
@@ -158,7 +159,7 @@ class MyMatrix
     }
 }
 
-class MyList<T>
+class MyList<T> : IEnumerable<T>
 {
     private T[] arreyuio; 
     private int indeopio;
@@ -219,13 +220,118 @@ class MyList<T>
         }
     }
 
+
+
+
+
+
+    public IEnumerator<T> GetEnumerator()
+    {
+        for(int i = 0; i < indeopio; i++)
+        {
+            yield return arreyuio[i];
+        }
+    }
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return GetEnumerator();
+    }
+
 }
 
 
-class MyDictionary<Tkey, TValue>
+class MyDictionary<Tkey, TValue> : IEnumerable<KeyValuePair<Tkey, TValue>>
 {
     Tkey[] aaaa;
     TValue[] bbbb;
+    int indedlin;
+
+    public MyDictionary(int indeddee, Tkey[] aaee, TValue[] bbee)
+    {
+        indedlin = indeddee;
+
+        aaaa = aaee;
+        bbbb = bbee;
+    }
+
+    public void Resize()
+    {
+        Tkey[] ararerer = new Tkey[this.aaaa.Length * 2];
+        TValue[] adadadad = new TValue[this.aaaa.Length * 2];
+        for (int i = 0; i < aaaa.Length; i++)
+        {
+            ararerer[i] = this.aaaa[i];
+            adadadad[i] = this.bbbb[i];
+        }
+        aaaa = ararerer;
+        bbbb = adadadad;
+        indedlin = ararerer.Length / 2;
+    }
+
+    public void add(Tkey aaee, TValue eekk)
+    {
+        if (aaaa.Length == indedlin)
+        {
+            Resize();
+        }
+
+        aaaa[indedlin] = aaee;
+        bbbb[indedlin] = eekk;
+        indedlin += 1;
+    }
+
+    public int lengthiuoo
+    {
+        get
+        {
+            return indedlin;
+        }
+    }
+
+    public IEnumerator<KeyValuePair<Tkey, TValue>> GetEnumerator()
+    {
+        for (int i = 0; i < indedlin; i++) {
+            yield return new KeyValuePair<Tkey, TValue>(aaaa[i], bbbb[i]);
+        }
+    }
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return GetEnumerator();
+    }
+
+    public TValue this[Tkey keyaerer]
+    {
+        get
+        {
+            int oioioioi = 0;
+            for(int i = 0; i < indedlin;i++)
+            {
+                if (keyaerer.Equals(aaaa[i]))
+                {
+                    oioioioi=i; 
+                    break;
+                }
+            }
+            return bbbb[oioioioi];
+        }
+
+        set
+        {
+            int oioioioi = 0;
+            for (int i = 0; i < indedlin; i++)
+            {
+                if (keyaerer.Equals(aaaa[i]))
+                {
+                    oioioioi = i;
+                    break;
+                }
+            }
+            bbbb[oioioioi] = value;
+        }
+    }
+
 
 }
 
@@ -233,7 +339,7 @@ class Programm
 {
     public static void Main()
     {
-        MyList<int> aaaa = new MyList<int>(4, 1, 2, 3, 4);
+        MyList<int> aaaa = new MyList<int>(4, 1, 2, 3, 8);
         aaaa.add(1);
 
         Console.WriteLine( aaaa.lengthiuoo );
@@ -243,6 +349,12 @@ class Programm
             Console.WriteLine(aaaa[i] );
         }
 
+       int[] eeee = new int[4] { 20, 20, 22, 28 };
 
+       int[] erer = new int[4] { 28, 36, 38, 48 };
+
+        MyDictionary<int, int> aiai = new MyDictionary<int, int>(4, eeee, erer);
+
+        Console.WriteLine(aiai[28]);
     }
 }
