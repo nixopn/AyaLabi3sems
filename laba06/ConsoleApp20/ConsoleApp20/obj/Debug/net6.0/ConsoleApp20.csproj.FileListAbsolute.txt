@@ -1,0 +1,14 @@
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.exe
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.deps.json
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.runtimeconfig.json
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.dll
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net6.0\ConsoleApp20.pdb
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.dll
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\refint\ConsoleApp20.dll
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.pdb
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\Владимир\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net6.0\ref\ConsoleApp20.dll
