@@ -1,0 +1,14 @@
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\bin\Debug\net8.0\ConsoleApp114.exe
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\bin\Debug\net8.0\ConsoleApp114.deps.json
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\bin\Debug\net8.0\ConsoleApp114.runtimeconfig.json
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\bin\Debug\net8.0\ConsoleApp114.dll
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\bin\Debug\net8.0\ConsoleApp114.pdb
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\obj\Debug\net8.0\ConsoleApp114.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\obj\Debug\net8.0\ConsoleApp114.AssemblyInfoInputs.cache
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\obj\Debug\net8.0\ConsoleApp114.AssemblyInfo.cs
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\obj\Debug\net8.0\ConsoleApp114.csproj.CoreCompileInputs.cache
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\obj\Debug\net8.0\ConsoleApp114.dll
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\obj\Debug\net8.0\refint\ConsoleApp114.dll
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\obj\Debug\net8.0\ConsoleApp114.pdb
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\obj\Debug\net8.0\ConsoleApp114.genruntimeconfig.cache
+C:\Users\eisne\source\repos\ConsoleApp108\ConsoleApp114\obj\Debug\net8.0\ref\ConsoleApp114.dll

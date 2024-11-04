@@ -1,0 +1,11 @@
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\bin\Debug\net8.0\ClassLibrary8.deps.json
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\bin\Debug\net8.0\ClassLibrary8.dll
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\bin\Debug\net8.0\ClassLibrary8.pdb
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\obj\Debug\net8.0\ClassLibrary8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\obj\Debug\net8.0\ClassLibrary8.AssemblyInfoInputs.cache
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\obj\Debug\net8.0\ClassLibrary8.AssemblyInfo.cs
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\obj\Debug\net8.0\ClassLibrary8.csproj.CoreCompileInputs.cache
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\obj\Debug\net8.0\ClassLibrary8.dll
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\obj\Debug\net8.0\refint\ClassLibrary8.dll
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\obj\Debug\net8.0\ClassLibrary8.pdb
+C:\Users\eisne\source\repos\ConsoleApp108\ClassLibrary8\obj\Debug\net8.0\ref\ClassLibrary8.dll
