@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eisne\\source\\repos\\ConsoleApp108ayalab10yy28yy38\\",
+  "WorkspaceRootPath": "E:\\aaaa\\laba10\\ConsoleApp108ayalab10yy28yy38\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{036A4F72-46E5-4F28-B04B-EB0FF2E10E38}|ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38.csproj|c:\\users\\eisne\\source\\repos\\consoleapp108ayalab10yy28yy38\\consoleapp108ayalab10yy28yy38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{036A4F72-46E5-4F28-B04B-EB0FF2E10E38}|ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38.csproj|e:\\aaaa\\laba10\\consoleapp108ayalab10yy28yy38\\consoleapp108ayalab10yy28yy38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{036A4F72-46E5-4F28-B04B-EB0FF2E10E38}|ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38.csproj|solutionrelative:consoleapp108ayalab10yy28yy38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38\\Program.cs",
+              "DocumentMoniker": "E:\\aaaa\\laba10\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp108ayalab10yy28yy38\\Program.cs",
-              "ToolTip": "C:\\Users\\eisne\\source\\repos\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38\\Program.cs",
+              "ToolTip": "E:\\aaaa\\laba10\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38\\Program.cs",
               "RelativeToolTip": "ConsoleApp108ayalab10yy28yy38\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAjwG4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAANsAAAAAAAAAAIAwwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T17:44:05.823Z",
               "EditorCaption": ""

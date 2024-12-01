@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OpA7d63cBDE=",
+  "dgSpecHash": "Sqi+Nq3TXOo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eisne\\source\\repos\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab.csproj",
+  "projectFilePath": "E:\\aaaa\\laba11\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eisne\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\eisne\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

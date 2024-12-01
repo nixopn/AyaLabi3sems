@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u1ng1mmq1zE=",
+  "dgSpecHash": "rx25XvutSh4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eisne\\source\\repos\\ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv.csproj",
+  "projectFilePath": "E:\\aaaa\\laba11\\ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eisne\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.10\\microsoft.data.sqlite.core.8.0.10.nupkg.sha512",
     "C:\\Users\\eisne\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",

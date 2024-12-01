@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eisne\\source\\repos\\ConsoleApp114laba11ayabserv\\",
+  "WorkspaceRootPath": "E:\\aaaa\\laba11\\ConsoleApp114laba11ayabserv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{650B6B69-04BA-40D4-BADD-0A664A459168}|ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv.csproj|c:\\users\\eisne\\source\\repos\\consoleapp114laba11ayabserv\\consoleapp114laba11ayabserv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{650B6B69-04BA-40D4-BADD-0A664A459168}|ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv.csproj|e:\\aaaa\\laba11\\consoleapp114laba11ayabserv\\consoleapp114laba11ayabserv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{650B6B69-04BA-40D4-BADD-0A664A459168}|ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv.csproj|solutionrelative:consoleapp114laba11ayabserv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv\\Program.cs",
+              "DocumentMoniker": "E:\\aaaa\\laba11\\ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp114laba11ayabserv\\Program.cs",
-              "ToolTip": "C:\\Users\\eisne\\source\\repos\\ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp114laba11ayabserv\\Program.cs*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwCAAAAApAAAAAAAAAA==",
+              "ToolTip": "E:\\aaaa\\laba11\\ConsoleApp114laba11ayabserv\\ConsoleApp114laba11ayabserv\\Program.cs",
+              "RelativeToolTip": "ConsoleApp114laba11ayabserv\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T16:33:21.28Z",
               "EditorCaption": ""

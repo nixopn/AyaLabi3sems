@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55AD4E1C-B1F9-4D66-B5DE-D1091144AB91}|WebAPIModels\\WebAPIModels.csproj|e:\\aaaa\\laba11\\laba11chastetr2_202\\sqlserverwebapiconsoleclient-20241129t170415z-001\\sqlserverwebapiconsoleclient\\webapimodels\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AD4E1C-B1F9-4D66-B5DE-D1091144AB91}|WebAPIModels\\WebAPIModels.csproj|solutionrelative:webapimodels\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FCE117-3002-42E8-81D4-64794DEEF0F4}|SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient.csproj|e:\\aaaa\\laba11\\laba11chastetr2_202\\sqlserverwebapiconsoleclient-20241129t170415z-001\\sqlserverwebapiconsoleclient\\sqlserverwebapiconsoleclient\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FCE117-3002-42E8-81D4-64794DEEF0F4}|SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient.csproj|solutionrelative:sqlserverwebapiconsoleclient\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FCE117-3002-42E8-81D4-64794DEEF0F4}|SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient.csproj|e:\\aaaa\\laba11\\laba11chastetr2_202\\sqlserverwebapiconsoleclient-20241129t170415z-001\\sqlserverwebapiconsoleclient\\sqlserverwebapiconsoleclient\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FCE117-3002-42E8-81D4-64794DEEF0F4}|SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient.csproj|solutionrelative:sqlserverwebapiconsoleclient\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7796EA-65C9-4675-B10B-182373E46243}|WebAPIClient\\WebAPIClient.csproj|e:\\aaaa\\laba11\\laba11chastetr2_202\\sqlserverwebapiconsoleclient-20241129t170415z-001\\sqlserverwebapiconsoleclient\\webapiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7796EA-65C9-4675-B10B-182373E46243}|WebAPIClient\\WebAPIClient.csproj|solutionrelative:webapiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FCE117-3002-42E8-81D4-64794DEEF0F4}|SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient.csproj|e:\\aaaa\\laba11\\laba11chastetr2_202\\sqlserverwebapiconsoleclient-20241129t170415z-001\\sqlserverwebapiconsoleclient\\sqlserverwebapiconsoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FCE117-3002-42E8-81D4-64794DEEF0F4}|SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient.csproj|solutionrelative:sqlserverwebapiconsoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FCE117-3002-42E8-81D4-64794DEEF0F4}|SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient.csproj|e:\\aaaa\\laba11\\laba11chastetr2_202\\sqlserverwebapiconsoleclient-20241129t170415z-001\\sqlserverwebapiconsoleclient\\sqlserverwebapiconsoleclient\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FCE117-3002-42E8-81D4-64794DEEF0F4}|SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient.csproj|solutionrelative:sqlserverwebapiconsoleclient\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FCE117-3002-42E8-81D4-64794DEEF0F4}|SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient.csproj|e:\\aaaa\\laba11\\laba11chastetr2_202\\sqlserverwebapiconsoleclient-20241129t170415z-001\\sqlserverwebapiconsoleclient\\sqlserverwebapiconsoleclient\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FCE117-3002-42E8-81D4-64794DEEF0F4}|SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient.csproj|solutionrelative:sqlserverwebapiconsoleclient\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "SQLServerWebApiConsoleClient\\NorthwindContext.cs",
+              "ToolTip": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient\\NorthwindContext.cs",
+              "RelativeToolTip": "SQLServerWebApiConsoleClient\\NorthwindContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:27:30.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\WebAPIModels\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebAPIModels\\Models\\Employee.cs",
+              "ToolTip": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\WebAPIModels\\Models\\Employee.cs",
+              "RelativeToolTip": "WebAPIModels\\Models\\Employee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:24:23.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\WebAPIClient\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIClient\\Program.cs",
+              "ToolTip": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\WebAPIClient\\Program.cs",
+              "RelativeToolTip": "WebAPIClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:07:15.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient\\Program.cs",
+              "RelativeDocumentMoniker": "SQLServerWebApiConsoleClient\\Program.cs",
+              "ToolTip": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient\\Program.cs",
+              "RelativeToolTip": "SQLServerWebApiConsoleClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:07:15.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SQLServerWebApiConsoleClient\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SQLServerWebApiConsoleClient\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:07:15.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "SQLServerWebApiConsoleClient\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "SQLServerWebApiConsoleClient\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:07:15.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "SQLServerWebApiConsoleClient\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "E:\\aaaa\\laba11\\laba11chastetr2_202\\SQLServerWebApiConsoleClient-20241129T170415Z-001\\SQLServerWebApiConsoleClient\\SQLServerWebApiConsoleClient\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "SQLServerWebApiConsoleClient\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:07:15.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

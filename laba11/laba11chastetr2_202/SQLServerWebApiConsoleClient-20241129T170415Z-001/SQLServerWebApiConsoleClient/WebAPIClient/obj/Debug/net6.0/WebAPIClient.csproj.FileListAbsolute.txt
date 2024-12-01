@@ -1,0 +1,79 @@
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.exe
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.deps.json
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.runtimeconfig.json
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.dll
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.pdb
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIModels.dll
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIModels.pdb
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.AssemblyReference.cache
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfoInputs.cache
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfo.cs
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CoreCompileInputs.cache
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CopyComplete
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.dll
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\refint\WebAPIClient.dll
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.pdb
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.genruntimeconfig.cache
+F:\old pc\my docs\Lec C#\#11\Code\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\ref\WebAPIClient.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.exe
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.deps.json
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.runtimeconfig.json
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIClient.pdb
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIModels.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\bin\Debug\net6.0\WebAPIModels.pdb
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.AssemblyReference.cache
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfoInputs.cache
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfo.cs
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CoreCompileInputs.cache
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPICl.BE3BF287.Up2Date
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\refint\WebAPIClient.dll
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.pdb
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\WebAPIClient.genruntimeconfig.cache
+D:\ayalab\SQLServerWebApiConsoleClient-20241129T170415Z-001\SQLServerWebApiConsoleClient\WebAPIClient\obj\Debug\net6.0\ref\WebAPIClient.dll

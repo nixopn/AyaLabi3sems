@@ -1116,11 +1116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eisne\\source\\repos\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38.csproj",
+      "projectUniqueName": "E:\\aaaa\\laba10\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38.csproj",
       "projectName": "ConsoleApp108ayalab10yy28yy38",
-      "projectPath": "C:\\Users\\eisne\\source\\repos\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38.csproj",
+      "projectPath": "E:\\aaaa\\laba10\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38.csproj",
       "packagesPath": "C:\\Users\\eisne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eisne\\source\\repos\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38\\obj\\",
+      "outputPath": "E:\\aaaa\\laba10\\ConsoleApp108ayalab10yy28yy38\\ConsoleApp108ayalab10yy28yy38\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

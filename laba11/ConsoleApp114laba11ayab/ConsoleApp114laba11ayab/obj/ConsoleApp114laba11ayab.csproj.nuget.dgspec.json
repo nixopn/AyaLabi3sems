@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eisne\\source\\repos\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab.csproj": {}
+    "E:\\aaaa\\laba11\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eisne\\source\\repos\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab.csproj": {
+    "E:\\aaaa\\laba11\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eisne\\source\\repos\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab.csproj",
+        "projectUniqueName": "E:\\aaaa\\laba11\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab.csproj",
         "projectName": "ConsoleApp114laba11ayab",
-        "projectPath": "C:\\Users\\eisne\\source\\repos\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab.csproj",
+        "projectPath": "E:\\aaaa\\laba11\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab.csproj",
         "packagesPath": "C:\\Users\\eisne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eisne\\source\\repos\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\obj\\",
+        "outputPath": "E:\\aaaa\\laba11\\ConsoleApp114laba11ayab\\ConsoleApp114laba11ayab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
