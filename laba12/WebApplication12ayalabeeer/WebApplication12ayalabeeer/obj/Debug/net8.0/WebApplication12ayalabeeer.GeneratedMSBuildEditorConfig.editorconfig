@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication12ayalabeeer
+build_property.RootNamespace = WebApplication12ayalabeeer
+build_property.ProjectDir = E:\aaaa\laba12\WebApplication12ayalabeeer\WebApplication12ayalabeeer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\aaaa\laba12\WebApplication12ayalabeeer\WebApplication12ayalabeeer
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/GroupMaster/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBNYXN0ZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/GroupMaster/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBNYXN0ZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/GroupMaster/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBNYXN0ZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/GroupMaster/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBNYXN0ZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/GroupMaster/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBNYXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/StudentMaster/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudE1hc3RlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/StudentMaster/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudE1hc3RlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/StudentMaster/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudE1hc3RlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/StudentMaster/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudE1hc3RlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/StudentMaster/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudE1hc3RlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/SubjectMaster/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdE1hc3RlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/SubjectMaster/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdE1hc3RlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/SubjectMaster/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdE1hc3RlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/SubjectMaster/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdE1hc3RlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/SubjectMaster/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdE1hc3RlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/TeacherMaster/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlck1hc3RlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/TeacherMaster/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlck1hc3RlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/TeacherMaster/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlck1hc3RlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/TeacherMaster/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlck1hc3RlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/TeacherMaster/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlck1hc3RlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/aaaa/laba12/WebApplication12ayalabeeer/WebApplication12ayalabeeer/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-b3twm3rb89

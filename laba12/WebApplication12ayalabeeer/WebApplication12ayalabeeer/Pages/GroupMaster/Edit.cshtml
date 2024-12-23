@@ -1,0 +1,45 @@
+﻿@page
+@model WebApplication12ayalabeeer.Pages.GroupMaster.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Group</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Group.GroupId" />
+            <div class="form-group">
+                <label asp-for="Group.GroupName" class="control-label"></label>
+                <input asp-for="Group.GroupName" class="form-control" />
+                <span asp-validation-for="Group.GroupName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Group.Course" class="control-label"></label>
+                <input asp-for="Group.Course" class="form-control" />
+                <span asp-validation-for="Group.Course" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Group.Speciality" class="control-label"></label>
+                <input asp-for="Group.Speciality" class="form-control" />
+                <span asp-validation-for="Group.Speciality" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

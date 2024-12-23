@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp222.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Button
+                x:Name="Connect"
+                Text="Connect to the server" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Fill" />
+
+
+
+            <Entry Placeholder="Enter the Id" x:Name="Id"/>
+            <Entry Placeholder="Enter the Name" x:Name="Name"/>
+            <Entry Placeholder="Enter the GroupId" x:Name="GroupId"/>
+            <Button
+                x:Name="get"
+                Text="Get" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="get_Clicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Post"
+                Text="Post" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="Post_Clicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Put"
+                Text="Put/Update" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="Put_Clicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="del"
+                Text="Delete" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="del_Clicked"
+                HorizontalOptions="Fill" />
+
+            <ListView x:Name="PosmotrertSpisokeeer" HasUnevenRows="True" Footer="">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid RowDefinitions="Auto,Auto,Auto">
+                                <Label Text="{Binding Id}" TextColor="Black">
+                                    
+                                </Label>
+                                <Label Grid.Row ="1" Text="{Binding Name}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="2" Text="{Binding GroupId}" TextColor="Black">
+
+                                </Label>
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+
+
+
+
+
+
+            <Entry Placeholder="Enter the GroupId2" x:Name="GroupId2"/>
+            <Entry Placeholder="Enter the GroupName" x:Name="GroupName"/>
+            <Entry Placeholder="Enter the Course" x:Name="Course"/>
+            <Entry Placeholder="Enter the Specialty" x:Name="Speciality"/>
+            <Button
+                x:Name="get2"
+                Text="Get" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="get_Clicked_1"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Post2"
+                Text="Post" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="Post_Clicked_1"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Put2"
+                Text="Put/Update" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="Put_Clicked_1"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="del2"
+                Text="Delete" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="del_Clicked_1"
+                HorizontalOptions="Fill" />
+
+            <ListView x:Name="PosmotrertSpisokeeer22" HasUnevenRows="True" Footer="">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid RowDefinitions="Auto,Auto,Auto,Auto">
+                                <Label Grid.Row="0"  Text="{Binding GroupId2}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="1" Text="{Binding GroupName}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="2" Text="{Binding Course}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="3" Text="{Binding Speciality}" TextColor="Black">
+
+                                </Label>
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Entry Placeholder="Enter the SubjectId" x:Name="SubjectId"/>
+            <Entry Placeholder="Enter the SubjectName" x:Name="SubjectName"/>
+            <Entry Placeholder="Enter the TeacherId" x:Name="TeacherId"/>
+            <Button
+                x:Name="get8"
+                Text="Get" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="get8_Clicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Post8"
+                Text="Post" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="Post8_Clicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Put8"
+                Text="Put/Update" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="Put8_Clicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="del8"
+                Text="Delete" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="del8_Clicked"
+                HorizontalOptions="Fill" />
+
+            <ListView x:Name="PosmotrertSpisokeeer2222" HasUnevenRows="True" Footer="">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid RowDefinitions="Auto,Auto,Auto">
+                                <Label Grid.Row="0"  Text="{Binding SubjectId}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="1" Text="{Binding SubjectName}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="2" Text="{Binding TeacherId}" TextColor="Black">
+
+                                </Label>
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <Entry Placeholder="Enter the TeacherId" x:Name="TeacherId2"/>
+            <Entry Placeholder="Enter the Name Teacher" x:Name="Name2"/>
+            <Entry Placeholder="Enter the Department" x:Name="Department"/>
+            <Button
+                x:Name="get12"
+                Text="Get" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="get12_Clicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Post12"
+                Text="Post" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="Post12_Clicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="Put12"
+                Text="Put/Update" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="Put12_Clicked"
+                HorizontalOptions="Fill" />
+            <Button
+                x:Name="del12"
+                Text="Delete" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="del12_Clicked"
+                HorizontalOptions="Fill" />
+
+            <ListView x:Name="PosmotrertSpisokeeer22222222" HasUnevenRows="True" Footer="">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid RowDefinitions="Auto,Auto,Auto">
+                                <Label Grid.Row="0"  Text="{Binding TeacherId2}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="1" Text="{Binding Name2}" TextColor="Black">
+
+                                </Label>
+                                <Label Grid.Row ="2" Text="{Binding Department}" TextColor="Black">
+
+                                </Label>
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</ContentPage>

@@ -1,0 +1,955 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\models\\labayaercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\models\\labayaercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\studentmaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\studentmaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\studentmaster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\studentmaster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\subjectmaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\subjectmaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\subjectmaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\subjectmaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\subjectmaster\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\subjectmaster\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\subjectmaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\subjectmaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\subjectmaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\subjectmaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\migrations\\20241223131044_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\migrations\\20241223131044_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\teachermaster\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\teachermaster\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\teachermaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\teachermaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\teachermaster\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\teachermaster\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\teachermaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\teachermaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\teachermaster\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\teachermaster\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\teachermaster\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\teachermaster\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\teachermaster\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\teachermaster\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\teachermaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\teachermaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\teachermaster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\teachermaster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\teachermaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\teachermaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\subjectmaster\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\subjectmaster\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\subjectmaster\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\subjectmaster\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\subjectmaster\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\subjectmaster\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\subjectmaster\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\subjectmaster\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\subjectmaster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\subjectmaster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\groupmaster\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\groupmaster\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\groupmaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\groupmaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\groupmaster\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\groupmaster\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\groupmaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\groupmaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\groupmaster\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\groupmaster\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\groupmaster\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\groupmaster\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\groupmaster\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\groupmaster\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\groupmaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\groupmaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\groupmaster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\groupmaster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\groupmaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\groupmaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\studentmaster\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\studentmaster\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\studentmaster\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\studentmaster\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\studentmaster\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\studentmaster\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\studentmaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\studentmaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\studentmaster\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\studentmaster\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\studentmaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\studentmaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\studentmaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\studentmaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\pages\\studentmaster\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\pages\\studentmaster\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|c:\\users\\eisne\\source\\repos\\webapplication12ayalabeeer\\webapplication12ayalabeeer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F16D86-A1D0-442E-A86F-01163B4EADED}|WebApplication12ayalabeeer\\WebApplication12ayalabeeer.csproj|solutionrelative:webapplication12ayalabeeer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:32:56.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Create.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Create.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:23:51.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:23:51.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Details.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Details.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:23:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:23:51.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Index.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:23:51.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabAyaerContext.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Models\\LabAyaerContext.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Models\\LabAyaerContext.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Models\\LabAyaerContext.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Models\\LabAyaerContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:45:27.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Models\\Group.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:04:56.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\appsettings.json",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\appsettings.json",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T12:50:39.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Program.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Program.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:40:57.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Create.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Create.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:13:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:13:57.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Error.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:27:10.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:27:10.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T12:49:20.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:14:44.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-23T13:33:40.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\efpt.config.json",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\efpt.config.json",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\efpt.config.json",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\efpt.config.json",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T13:00:51.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:27:15.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241223131044_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Migrations\\20241223131044_Initial.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Migrations\\20241223131044_Initial.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Migrations\\20241223131044_Initial.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Migrations\\20241223131044_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:10:44.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:14:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:23:51.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Create.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Create.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:24:33.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:24:33.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:24:33.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:24:33.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:24:33.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Details.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Details.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:24:33.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Details.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:24:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:24:33.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Delete.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:24:33.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Index.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\TeacherMaster\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:24:33.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Delete.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:23:51.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Details.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:23:51.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:23:51.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\SubjectMaster\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:23:51.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:22:14.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Index.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:22:14.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Delete.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:22:14.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:22:14.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Details.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:22:14.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Details.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Details.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:22:13.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:22:13.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:22:13.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:22:13.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Create.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\GroupMaster\\Create.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\GroupMaster\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:22:13.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:13:57.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Index.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:13:57.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Delete.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:13:57.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:13:57.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Details.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:13:57.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Details.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Details.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:13:57.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:13:57.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Pages\\StudentMaster\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Pages\\StudentMaster\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:13:57.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication12ayalabeeer\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\eisne\\source\\repos\\WebApplication12ayalabeeer\\WebApplication12ayalabeeer\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication12ayalabeeer\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:47:04.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

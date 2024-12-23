@@ -1,0 +1,17 @@
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\bin\Debug\net8.0\ConsoleApp12ayalab.exe
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\bin\Debug\net8.0\ConsoleApp12ayalab.deps.json
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\bin\Debug\net8.0\ConsoleApp12ayalab.runtimeconfig.json
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\bin\Debug\net8.0\ConsoleApp12ayalab.dll
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\bin\Debug\net8.0\ConsoleApp12ayalab.pdb
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\ConsoleApp12ayalab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\ConsoleApp12ayalab.AssemblyInfoInputs.cache
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\ConsoleApp12ayalab.AssemblyInfo.cs
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\ConsoleApp12ayalab.csproj.CoreCompileInputs.cache
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\ConsoleApp12ayalab.dll
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\refint\ConsoleApp12ayalab.dll
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\ConsoleApp12ayalab.pdb
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\ConsoleApp12ayalab.genruntimeconfig.cache
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\ref\ConsoleApp12ayalab.dll
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\ConsoleApp12ayalab.csproj.AssemblyReference.cache
+C:\Users\eisne\source\repos\ConsoleApp12ayalab\ConsoleApp12ayalab\obj\Debug\net8.0\ConsoleA.D9F38315.Up2Date
